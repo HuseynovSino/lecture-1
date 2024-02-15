@@ -1,4 +1,4 @@
-Цикл Python for - это оператор потока управления, который вы можете использовать для перебора последовательности (например, строки, списка, кортежа, словаря, набора, string). Оператор for выполняет определенный блок кода для каждого элемента в последовательности. Отличной особенностью циклов for в Python является то, что один и тот же код может работать без изменений с несколькими типами данных.
+Цикл  for - это оператор потока управления, который вы можете использовать для перебора последовательности (например, строки, списка, кортежа, словаря, набора, string). Оператор for выполняет определенный блок кода для каждого элемента в последовательности. Отличной особенностью циклов for в  является то, что один и тот же код может работать без изменений с несколькими типами данных.
 
 
 ## JavaScript
@@ -27,6 +27,7 @@ One of the important thing in JS is function
 Function-is a block of code it work when we called it function ba 3 namud judo meshavad 1.funcsiyai nomdor-declaretion
 
 2.function expresion:da drunsh 2 funcsiyai diga dora 1Arrow function 2.Anonymous function
+![alt text](image-3.png)
 
 3.funcsiyai-Immediately Invoked Function Expression (IIFE)
 ![+
